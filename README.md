@@ -1,1 +1,6 @@
 # Clickbait-Classifier
+ This is a basic project I undertook as part of my capstone project for my final semester of college. The dataset used in this project in was picked up from the github repository of the research paper **"Stop Clickbait: Detecting and Preventing Clickbaits in Online News Media”. In Proceedings of the 2016 IEEE/ACM International Conference on Advances in Social Networks Analysis and Mining (ASONAM), San Fransisco, US, August 2016, by Abhijnan Chakraborty, Bhargavi Paranjape, Sourya Kakarla, and Niloy Ganguly.**
+
+The dataset consists of 16,000 headlines each of clickbait and non-clickbait headlines. The clickbait headlines were sourced from ‘BuzzFeed’, ‘Upworthy’, ‘ViralNova’, ‘Thatscoop’, ‘Scoopwhoop’ and ‘ViralStories’. The non-clickbait headlines were collected from ‘WikiNews’, ’New York Times’, ‘The Guardian’, and ‘The Hindu’. This dataset was then used to train  a neural network to classify between the two
+
+The best model and the diagram of the structure of the neural network is also included in this repository. I also aim to keep improving this project as I keep learning more and more techniques and hopefully one day be able to deploy this project for use :).
